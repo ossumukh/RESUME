@@ -1,0 +1,12 @@
+body {background-color:lightgrey;}
+h1 {color: blue; font-style:italic;}
+h2 {color: teal; }
+*{color:red;}
+/* body b em {font-size: 14pt;} */
+#top{color: darkblue;}
+/* .list{color: orange;} */
+#line{
+    background-color: black;
+    height: 2px;
+    width:100%;
+}
