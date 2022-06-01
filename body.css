@@ -10,3 +10,9 @@ h2 {color: teal; }
     height: 2px;
     width:100%;
 }
+a {
+    color:darkgreen;
+  }
+  a:hover {
+    text-decoration: none;
+  }
